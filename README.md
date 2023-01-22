@@ -1,4 +1,5 @@
 # NLW-SETUP 
+![preview](./preview.png)
 
 Project from the explorer track at the NLW-SETUP event, organized by Rocketseat.
 
