@@ -1,7 +1,7 @@
 # NLW-SETUP 
 ![preview](./preview.png)
 
-Exercise from the explorer track at the NLW-SETUP event, organized by Rocketseat.
+Project from the explorer track at the NLW-SETUP event, organized by Rocketseat.
 
 🔗 [Click here to access](https://carvmi.github.io/nlw-setup/)
 
