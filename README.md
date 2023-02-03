@@ -8,7 +8,6 @@ Project from the explorer track at the NLW-SETUP event, organized by Rocketseat.
 ## Technologies 
 - HTML
 - CSS
-- Git and Github
 - Figma
 
 ## What I have learned
